@@ -1,4 +1,4 @@
-real-time based I/O bandwidth reallocation for VM
+Real-time based I/O Bandwidth Reallocation for VM
 =================================================
 
 본 프로젝트는...
