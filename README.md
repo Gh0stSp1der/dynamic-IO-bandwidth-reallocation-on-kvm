@@ -5,7 +5,7 @@ real-time based I/O bandwidth reallocation for VM
 ----------------
 
 가상머신에 설정된 I/O 대역폭을 가상머신이 구동중인 상태(Live)에서도 변경할 수 있는 코드이다.
-관련된 기술은 syntax: [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07450265)에서 확인할 수 있다.
+관련된 기술은 ['링크'](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07450265)에서 확인할 수 있다.
 
 컴파일 방법...
 --------------
