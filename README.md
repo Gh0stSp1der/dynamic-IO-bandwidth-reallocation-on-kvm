@@ -10,9 +10,9 @@ real-time based I/O bandwidth reallocation for VM
 컴파일 방법...
 --------------
 
-본 코드는 CentOS 7, qemu-kvm-1.5.3-167 rpm 패키지를 기반으로 작성된다.
+본 코드는 CentOS 7 기반의 qemu-kvm-1.5.3-167 rpm 패키지를 베이스로 작성된다.
 <pre>
-# git https://github.com/Gh0stSp1der/qemu-kvm.git
+# git clone https://github.com/Gh0stSp1der/qemu-kvm.git
 # cd qemu-kvm
 
 # ./configure --prefix=/usr --enable-spice --target-list=x86_64-softmmu --enable-kvm
@@ -22,7 +22,7 @@ real-time based I/O bandwidth reallocation for VM
 QEMU emulator version 1.5.3, Copyright (c) 2003-2008 Fabrice Bellard
 </pre>
 
-RPM 패키지 작성 방법...
+RPM 패키지 생성 방법...
 -----------------------
 
 추후 정리..
